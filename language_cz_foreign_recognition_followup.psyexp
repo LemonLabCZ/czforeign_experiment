@@ -382,7 +382,7 @@
         <Param val="sound_example" valType="code" updates="None" name="name"/>
         <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
         <Param val="$stimulus_example" valType="str" updates="set every repeat" name="sound"/>
-        <Param val="10.0" valType="code" updates="None" name="speakerIndex"/>
+        <Param val="-1" valType="code" updates="None" name="speakerIndex"/>
         <Param val="" valType="code" updates="None" name="startEstim"/>
         <Param val="time (s)" valType="str" updates="None" name="startType"/>
         <Param val="2" valType="code" updates="None" name="startVal"/>
